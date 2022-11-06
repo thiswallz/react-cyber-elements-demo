@@ -19,7 +19,7 @@ export default function Home() {
 
       <main className={styles.main}>
         <h1 className={styles.title}>
-          Welcome to <a href="https://nextjs.org">react-cyber-elements</a>
+          Welcome to <a href="https://github.com/thiswallz/react-cyber-elements">react-cyber-elements</a>
         </h1>
         <h2>
           You can change the color of the elements with just css. 
