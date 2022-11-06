@@ -29,7 +29,7 @@ export default function Home() {
         Simple usage: {`<CyberEl1 />`} to {`<CyberEl99 />`}
         </div>
         <div className="subtitle">
-          Checkout the <a href="https://github.com/thiswallz/react-cyber-elements" target="_blank">docs</a>  and <a href="https://codesandbox.io/s/zen-cartwright-tcjjmq?file=/src/App.js" target="_blank">sandbox</a> for more info.
+          Checkout the <a rel="noreferrer" href="https://github.com/thiswallz/react-cyber-elements" target="_blank">docs</a>  and <a href="https://codesandbox.io/s/zen-cartwright-tcjjmq?file=/src/App.js" target="_blank" rel="noreferrer">sandbox</a> for more info.
         </div>
         <cyberElements.CyberEl14
           id="cyberEl-Master"
