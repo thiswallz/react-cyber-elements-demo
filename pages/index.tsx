@@ -5,9 +5,8 @@ import * as cyberElements from 'react-cyber-elements'
 import ReactTooltip from 'react-tooltip';
 
 export default function Home() {
-  console.log('cyber', cyberElements)
   const CyberEls = new Array(89).fill(undefined).map((_, i) => {
-    return cyberElements[`CyberEl${i + 1}`]
+    return (cyberElements as any)[`CyberEl${i + 1}`]
   })
   return (
     <div className={styles.container}>
