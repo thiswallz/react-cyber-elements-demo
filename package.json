@@ -1,5 +1,5 @@
 {
-  "name": "react-cyber-icons-demo",
+  "name": "react-cyber-elements-demo",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -16,7 +16,9 @@
     "eslint-config-next": "13.0.2",
     "next": "13.0.2",
     "react": "18.2.0",
+    "react-cyber-elements": "^1.0.1",
     "react-dom": "18.2.0",
+    "react-tooltip": "^4.4.3",
     "typescript": "4.8.4"
   }
 }
